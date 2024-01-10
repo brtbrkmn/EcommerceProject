@@ -1,1 +1,1 @@
-# TrendBaskiProject DB
+'Trend Baskı: Stilin Nabzı' hayali markasına ait oluşturmuş olduğum örnek bir e-ticaret sitesi projesidir. Projenin arkaplanında yatan felsefe; Entity, DAL ve BLL katmanlarını API aracılığı ile Front End (MVC) katmanına verileri göndermek ve Front End katmanında çıktı elde etmektir, dolayısıyla API ve MVC'ye dair bir database bulunmamaktadır ve DAL katmanı içerisinde tanımlanmıştır. 
